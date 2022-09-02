@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -m -f
+ls -m -a -F
