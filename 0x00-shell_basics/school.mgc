@@ -1,2 +1,2 @@
 #!/bin/bash
-file -C -m school type=string offset=0 test='STRING'
+file -C -m school type:string offset(0) test='SCHOOL'
